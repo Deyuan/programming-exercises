@@ -4,7 +4,7 @@
 | File | Note
 | --- | ---
 | [hello-world.cc](hello-world.cc) | Hello world
-| [primitive_data_types.cc](primitive_data_types.cc) | Primitive data types
+| [primitive-data-types.cc](primitive-data-types.cc) | Primitive data types
 
 ## References
 * Google C++ Style Guide

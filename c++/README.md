@@ -1,4 +1,4 @@
-# programming-exercises/c++
+## programming-exercises/c++
 
 ## Programming Language Features
 | File | Note
@@ -11,6 +11,4 @@
   > https://google.github.io/styleguide/cppguide.html
 * Standard C++ Library Reference
   > http://www.cplusplus.com/reference/
-* Primitive data type
-  > https://en.wikipedia.org/wiki/Primitive_data_type
 

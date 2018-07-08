@@ -5,6 +5,7 @@
 | --- | ---
 | [hello-world.cc](hello-world.cc) | Hello world
 | [primitive_data_types.cc](primitive_data_types.cc) | Primitive data types
+| [mt-std-thread.cc](mt-std-thread.cc) | C++11 std::thread
 
 ## References
 * Google C++ Style Guide

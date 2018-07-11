@@ -7,7 +7,7 @@
 | [primitive-data-types.cc](primitive-data-types.cc) | Primitive data types
 | [mt-std-thread.cc](mt-std-thread.cc) | C++11 std::thread
 | [random-number-engines.cc](random-number-engines.cc) | C++11 random number engines
-| [random-distributions.cc](random-distributions.cc) | C++11 random distributions (interactive)
+| [random-distributions.cc](random-distributions.cc) | C++11 probability distributions (interactive)
 
 ## References
 * Google C++ Style Guide
@@ -20,7 +20,7 @@
   * Mersenne Twister - [wiki](https://en.wikipedia.org/wiki/Mersenne_Twister)
   * Subtract with Carry - [wiki](https://en.wikipedia.org/wiki/Subtract_with_carry)
   * Lagged Fibonacci Generator - [wiki](https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator)
-* Random Distributions
+* Probability Distributions
   * Bernoulli Distribution - [wiki](https://en.wikipedia.org/wiki/Bernoulli_distribution)
   * Binomial Distribution - [wiki](https://en.wikipedia.org/wiki/Binomial_distribution)
   * Geometric Distribution - [wiki](https://en.wikipedia.org/wiki/Geometric_distribution)

@@ -1,2 +1,7 @@
 # Executables
 *.out
+*.pyc
+
+# Paths
+__pycache__
+

@@ -1,6 +1,6 @@
 ## programming-exercises/c++
 
-## Programming Language Features
+## Exercises
 | File | Note
 | --- | ---
 | [hello-world.cc](hello-world.cc) | Hello world
@@ -8,6 +8,9 @@
 | [mt-std-thread.cc](mt-std-thread.cc) | C++11 std::thread
 | [random-number-engines.cc](random-number-engines.cc) | C++11 random number engines
 | [random-distributions.cc](random-distributions.cc) | C++11 probability distributions (interactive)
+
+## Note
+* Every source file is self-contained
 
 ## References
 * Google C++ Style Guide
@@ -38,3 +41,4 @@
   * Student's T Distribution - [wiki](https://en.wikipedia.org/wiki/Student%27s_t-distribution)
   * List of Probability Distributions - [wiki](https://en.wikipedia.org/wiki/List_of_probability_distributions)
   * Relationships among Probability Distributions - [wiki](https://en.wikipedia.org/wiki/Relationships_among_probability_distributions)
+

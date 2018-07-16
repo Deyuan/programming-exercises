@@ -13,6 +13,10 @@
   * `python manage.py createsuperuser`
   * `python manage.py test polls`
   * `python -c "import django; print(django.__path__)"`
+* [django-polls](django-polls) - Django tutorial: Packaging the app
+  * `python setup.py sdist`
+  * `pip install --user django-polls/dist/django-polls-0.1.tar.gz`
+  * `pip uninstall django-polls`
 
 ## References
 * Django Tutorial

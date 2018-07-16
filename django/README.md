@@ -12,6 +12,7 @@
   * `python manage.py shell`
   * `python manage.py createsuperuser`
   * `python manage.py test polls`
+  * `python -c "import django; print(django.__path__)"`
 
 ## References
 * Django Tutorial

@@ -5,3 +5,6 @@
 # Paths
 __pycache__
 
+# DBs
+*.sqlite3
+

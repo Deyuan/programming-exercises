@@ -21,7 +21,12 @@
   * Create `setup.py` and `MANIFEST.in`
   * `pip install -e .`
   * `pip list`
-  * `pip uninstall flaskr`
+  * Keep the package for running pytest, otherwise can do `pip uninstall flaskr`
+  * `pip install pytest coverage`
+  * Create `tests/*`
+  * Create `setup.cfg`
+  * Run `pytest` under flask-tutorial
+  * Run `coverage run -m pytest` followed by `coverage report` or `coverage html`
 
 ## References
 * Flask Tutorial

@@ -21,4 +21,11 @@
 ## References
 * Django Tutorial
   * https://docs.djangoproject.com/en/2.0/intro/
-
+  * https://www.djangoproject.com
+* Django Wikipedia
+  * https://en.wikipedia.org/wiki/Django_(web_framework)
+* Django Github Repo
+  * https://github.com/django/django
+* Django Documentation
+  * http://devdocs.io/django~2.0/
+  

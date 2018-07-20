@@ -13,6 +13,9 @@
   * Create `flaskr/schema.sql`
   * `flask init-db`
   * Create `flaskr/auth.py`
+  * Create `flaskr/templates/base.html`
+  * Create `flaskr/templates/auth/register.html`
+  * Create `flaskr/templates/auth/login.html`
 
 ## References
 * Flask Tutorial

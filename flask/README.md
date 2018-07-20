@@ -14,13 +14,14 @@
   * `flask init-db`
   * Create `flaskr/auth.py`
   * Create `flaskr/templates/base.html`
-  * Create `flaskr/templates/auth/register.html`
-  * Create `flaskr/templates/auth/login.html`
+  * Create `flaskr/templates/auth/register.html` and `login.html`
   * Create `flaskr/static/style.css`
   * Create `flaskr/blog.py`
-  * Create `flaskr/templates/blog/index.html`
-  * Create `flaskr/templates/blog/create.html`
-  * Create `flaskr/templates/blog/update.html`
+  * Create `flaskr/templates/blog/index.html`, `create.html` and `update.html`
+  * Create `setup.py` and `MANIFEST.in`
+  * `pip install -e .`
+  * `pip list`
+  * `pip uninstall flaskr`
 
 ## References
 * Flask Tutorial

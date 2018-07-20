@@ -11,6 +11,8 @@
   * `export FLASK_ENV=development`
   * Create `flaskr/db.py`
   * Create `flaskr/schema.sql`
+  * `flask init-db`
+  * Create `flaskr/auth.py`
 
 ## References
 * Flask Tutorial

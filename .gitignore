@@ -4,6 +4,7 @@
 
 # Paths
 __pycache__
+*.egg-info
 
 # DBs
 *.sqlite3

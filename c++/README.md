@@ -13,10 +13,13 @@
 * Every source file is self-contained
 
 ## References
-* Google C++ Style Guide
-  * https://google.github.io/styleguide/cppguide.html
+* ISO C++ Standard
+  * https://isocpp.org/std/the-standard
+  * https://github.com/cplusplus/draft
 * Standard C++ Library Reference
   * http://www.cplusplus.com/reference/
+* Google C++ Style Guide
+  * https://google.github.io/styleguide/cppguide.html
 * Pseudo Random Number Generation
   * Pseudo Random Number Generator - [wiki](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)
   * Linear Congruential Generator - [wiki](https://en.wikipedia.org/wiki/Linear_congruential_generator)
